@@ -1,4 +1,7 @@
-# Implementation of Bayesian Classifier
+### EXPERIMENT 2
+### DATE :06.04.2023			
+# <p align="center"> Implementation of Bayesian Network </P>
+
 ## AIM
 To Construct a Bayes Classifier to classify Iris dataset using Python.
 ## ALGORITHM
